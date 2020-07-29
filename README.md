@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Klanli's github stats](https://github-readme-stats.vercel.app/api?username=Klanli&show_icons=true&theme=nightowl&count_private=true&show_owner=true)](https://github.com/Klanli/LYManagement)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klanli&layout=compact)](https://github.com/Klanli/LYManagement)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klanli)](https://github.com/Klanli/LYManagement)
